@@ -28,28 +28,28 @@ Place text
 
 
 ### Short data analisys
-:arrow_up:[To the table of content][(https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table of content)]
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 ## Sub paragraph
 Place text
 
 
 ### Working stages
-:arrow_up:[To the table of content][(https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table of content)]
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 ## Sub paragraph
 Place text
 
 
 ### Short Result
-:arrow_up:[To the table of content][(https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table of content)]
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 ## Sub paragraph
 Place text
 
 
 ### Conclusion
-:arrow_up:[To the table of content][(hhttps://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table of content)]
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 ## Sub paragraph
 Place text
