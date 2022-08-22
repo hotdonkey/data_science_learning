@@ -1,17 +1,17 @@
 # Project 0. Find the number
 
 ## Table of content
-[1. Project description](.README.md#Project_description)  
-[2. What case are we trying to solve?](.README.md#What_case_are_we_trying_to_solve?)  
-[3. Short info about the data](.README.md#Short_info_about_the_data)  
-[4. Work stages](.README.md#Work_stages)  
-[5. Result](.README.md#Result)    
-[6. Conclusion](.README.md#Conclusion) 
+[1. Project description](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Project_description)  
+[2. What case are we trying to solve?](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#What_case_are_we_trying_to_solve?)  
+[3. Short info about the data](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Short_info_about_the_data)  
+[4. Work stages](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Work_stages)  
+[5. Result](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Result)    
+[6. Conclusion](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Conclusion) 
 
 ### Project description    
 Find a random number that computer will take from the stated range for minimal number of attempts.
 
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 
 ### What case are we trying to solve?    
@@ -30,12 +30,12 @@ The result will be rated by the average number of steps/attempts of the algorith
 **What do we practice**     
 Learning how to make a decent code
 
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 ### Short info about the data
 The data will be generated from the random range via numpy module
   
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 
 ### Work stages 
@@ -49,7 +49,7 @@ borders based on previous step: if the number that we're trying to guess is high
 
 4. Creating readme file with the description of task, steps, etc. Which was the longest and maybe the hardest part because it just won't work properly.
 
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 
 ### Result:  
@@ -57,13 +57,13 @@ As a result we have the programm that is creating a random number secretly for i
 algorithm in short range of attempts, there is a test programm that I've used to check number of attempts on the large scale, with a 
 huge succes I must say not for realisation time though.
 
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 
 ### Conclusion:  
 Our algorithm unbound from the number's scale it's a win, but greater number can take a greater time to execute.
 
-:arrow_up:[To the table of content](.README.md#Table_of_content)
+:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
 
 
 
