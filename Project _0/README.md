@@ -63,7 +63,7 @@ huge succes I must say not for realisation time though.
 ### Conclusion:  
 Our algorithm unbound from the number's scale it's a win, but greater number can take a greater time to execute.
 
-:arrow_up:[To the table of content](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Table_of_content)
+:arrow_up:[To the table of content](README.md#Table_of_content)
 
 
 
