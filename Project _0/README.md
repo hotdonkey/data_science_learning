@@ -1,10 +1,10 @@
 # Project 0. Find the number
 
 ## Table of content
-[1. Project description](README.md#Project_description)  
-[2. What case are we trying to solve?](README.md#What_case_are_we_trying_to_solve?)  
-[3. Short info about the data](README.md#Short_info_about_the_data)  
-[4. Work stages](README.md#Work_stages)  
+[1. Project description](README.md#Project-description)  
+[2. What case are we trying to solve?](README.md#What-case-are-we-trying-to-solve?)  
+[3. Short info about the data](README.md#Short-info-about-the-data)  
+[4. Work stages](README.md#Work-stages)  
 [5. Result](README.md#Result)    
 [6. Conclusion](README.md#Conclusion) 
 
