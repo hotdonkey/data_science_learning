@@ -6,7 +6,7 @@
 [3. Short info about the data](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Short_info_about_the_data)  
 [4. Work stages](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Work_stages)  
 [5. Result](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Result)    
-[6. Conclusion](https://github.com/hotdonkey/data_science_learning/blob/main/Project%20_0/README.md#Conclusion) 
+[6. Conclusion](README.md#Conclusion) 
 
 ### Project description    
 Find a random number that computer will take from the stated range for minimal number of attempts.
