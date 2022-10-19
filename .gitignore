@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignoring huge dataset
+dst-3.0_16_1_hh_database.csv
