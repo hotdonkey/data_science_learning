@@ -133,3 +133,6 @@ dst-3.0_16_1_hh_database.csv
 
 #ignoring database parameters 
 db_params.csv
+
+#ignoring database parameters for project db
+db_project_sql.csv
