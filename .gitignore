@@ -136,3 +136,6 @@ db_params.csv
 
 #ignoring database parameters for project db
 db_project_sql.csv
+
+#ignoring the lme db from work
+LME свод 2022.xlsx
