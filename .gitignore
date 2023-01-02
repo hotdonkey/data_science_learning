@@ -139,3 +139,6 @@ db_project_sql.csv
 
 #ignoring the lme db from work
 LME свод 2022.xlsx
+
+#mac utilyty
+.DS_Store
